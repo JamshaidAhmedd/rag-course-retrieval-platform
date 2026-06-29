@@ -1,0 +1,29 @@
+[
+  {
+    "id": "c_001",
+    "title": "Python for Data Science and Machine Learning Bootcamp",
+    "description": "Learn Python for data analysis, visualization, and machine learning with real-world projects.",
+    "platform": "Udemy",
+    "instructor": "Jose Portilla",
+    "rating": 4.6,
+    "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+  },
+  {
+    "id": "c_002",
+    "title": "Deep Learning Specialization",
+    "description": "Master deep learning fundamentals including CNNs, RNNs, and transformer architectures.",
+    "platform": "Coursera",
+    "instructor": "Andrew Ng",
+    "rating": 4.9,
+    "url": "https://www.coursera.org/specializations/deep-learning"
+  },
+  {
+    "id": "c_003",
+    "title": "Full Stack Web Development with React",
+    "description": "Build modern web applications using React, Node.js, Express, and MongoDB.",
+    "platform": "Coursera",
+    "instructor": "Jogesh Muppala",
+    "rating": 4.5,
+    "url": "https://www.coursera.org/specializations/full-stack-react"
+  }
+]
